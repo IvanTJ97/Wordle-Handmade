@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3141eb93.css","mappings":"AAAA,EAGE,QAAS,CACT,qBAAsB,CACtB,sBAAuB,CAJvB,QAAS,CACT,SAIF","sources":["App.css"],"sourcesContent":["*{\r\n  margin: 0;\r\n  padding: 0;\r\n  border: 0;\r\n  box-sizing: border-box;\r\n  font-family: sans-serif;\r\n}"],"names":[],"sourceRoot":""}

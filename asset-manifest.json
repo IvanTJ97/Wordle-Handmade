@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Wordle-Handmade/static/css/main.4535b330.css",
-    "main.js": "/Wordle-Handmade/static/js/main.59b36072.js",
+    "main.css": "/Wordle-Handmade/static/css/main.3141eb93.css",
+    "main.js": "/Wordle-Handmade/static/js/main.56d1db3d.js",
     "index.html": "/Wordle-Handmade/index.html",
-    "main.4535b330.css.map": "/Wordle-Handmade/static/css/main.4535b330.css.map",
-    "main.59b36072.js.map": "/Wordle-Handmade/static/js/main.59b36072.js.map"
+    "main.3141eb93.css.map": "/Wordle-Handmade/static/css/main.3141eb93.css.map",
+    "main.56d1db3d.js.map": "/Wordle-Handmade/static/js/main.56d1db3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4535b330.css",
-    "static/js/main.59b36072.js"
+    "static/css/main.3141eb93.css",
+    "static/js/main.56d1db3d.js"
   ]
 }
